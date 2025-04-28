@@ -1,4 +1,4 @@
-# Website Biodata 
+# Chessboard Web 
 
 Ini adalah website papan catur yang dibuat menggunakkan table HTML tanpa menggunakkan css dan atribute style
 
