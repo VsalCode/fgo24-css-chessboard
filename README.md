@@ -1,24 +1,36 @@
-# Chessboard Web 
+# Chessboard 
 
-Ini adalah website papan catur yang dibuat menggunakkan table HTML tanpa menggunakkan css dan atribute style
+This is a simple chessboard website that uses internal css formatting.
 
-![image](/chessboard.jpg)
+## Preview
 
-### Cara Menjalankan
-Setelah anda berhasil mendonwload folder dari repository ini, baik itu menggunakkan cara clone maupun mendowload file. Anda bisa langsung menjalankan websitenya dengan cara sebagai berikut :
+![preview](/fgo24-html-chessboard/image.png)
+
+## How To Run This Project
+
+Clone this project url :
+
+``` https://github.com/VsalCode/fgo24-css-basic.git ```
+
+after entering the folder, install the dependencies:
+
+```npm install```
+
+To run the web you can use the command :
 
 ```npm run dev```
 
-namun pastikan di package.jsonnya terdapat:
+##  dependencies used
+- Live Server
 
-```powershell
-"scripts": {
-    "dev": "live-server"
-  },
-```
 
-kalau belum, anda dapat menginstall live server via npm:
+## How To Contribute
 
-```npm i live-server```
-atau
-```npm install live-server```
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[ISC](https://opensource.org/license/isc-license-txt)
